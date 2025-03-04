@@ -24,6 +24,8 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 
+```
+
 ## **Usage** 🛠️
 Register/Login to create an account.
 Create a Post by adding a title, content, and an optional image.
