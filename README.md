@@ -27,16 +27,16 @@ php artisan serve
 ```
 
 ## **Usage** 🛠️
-Register/Login to create an account.
-Create a Post by adding a title, content, and an optional image.
-Edit/Delete your own posts anytime.
-Browse Posts from all users.
+- Register/Login to create an account.
+- Create a Post by adding a title, content, and an optional image.
+- Edit/Delete your own posts anytime.
+- Browse Posts from all users.
 
 ## **Technologies Used** 🛠
-Laravel – PHP Framework
-Bootstrap – Frontend Styling
-MySQL – Database
-Blade Templates – Templating Engine
+- Laravel – PHP Framework
+- Bootstrap – Frontend Styling
+- MySQL – Database
+- Blade Templates – Templating Engine
 
 ## **Contributing** 🤝
 Feel free to fork this repository, make changes, and submit a pull request!
